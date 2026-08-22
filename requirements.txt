@@ -8,7 +8,7 @@ click==8.1.8
 colorama==0.4.6
 frozenlist==1.6.0
 grpclib==0.4.7
-h2==4.2.0
+h2==4.4.1
 hpack==4.1.0
 hyperframe==6.1.0
 idna==3.10
